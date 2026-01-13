@@ -32,7 +32,7 @@ This project is part of my 2026 self-study plan to learn cloud computing fundame
 
 Feel free to reach out if you have questions, suggestions, or want to collaborate!  
 
-- GitHub: [@chiedzar](https://github.com/chiedzar))  
+- GitHub: [@chiedzar](https://github.com/chiedzar)
 - Email (safe): `123456+Chiedza@users.noreply.github.com`
 
 ---
